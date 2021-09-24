@@ -15,8 +15,8 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robin-Anmol/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://robin-anmol.github.io/huddle-landing-page//)
+- Solution URL: [Add solution URL here](https://github.com/Robin-Anmol/Huddle-landing-page.)
+- Live Site URL: [Add live site URL here](https://robin-anmol.github.io/Huddle-landing-page./)
 
 ### Built with
 
